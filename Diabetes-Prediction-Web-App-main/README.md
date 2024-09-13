@@ -30,6 +30,7 @@
 
 This repository contains the code for a web-based diabetes prediction application using a machine learning model. The application is built using Flask and allows users to input various health parameters to predict the likelihood of diabetes.
 
+<img src="https://www.eresvihda.es/wp-content/uploads/2023/10/Diabetes.gif" height=25% width=45% align="middle">
 
 ## Overview
 -#### Mr. Mohamed riyaz have successfully completed a groundbreaking project over the course of 2 months, focusing on diabetes prediction web app . This collaborative effort showcases their expertise in  machine learning, and software development.
@@ -49,8 +50,6 @@ This repository contains the code for a web-based diabetes prediction applicatio
 The machine learning model used in this app is an ensemble of RandomForestClassifier, LogisticRegression, and Support Vector Machine (SVM). The ensemble approach combines the strengths of these classifiers to improve prediction accurac
 
 
-
-<img src="https://www.eresvihda.es/wp-content/uploads/2023/10/Diabetes.gif" height=25% width=45% align="middle">
 
 
 
