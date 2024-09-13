@@ -44,4 +44,5 @@ The web app utilizes a machine learning model, specifically an ensemble model co
 
 The machine learning model used in this app is an ensemble of RandomForestClassifier, LogisticRegression, and Support Vector Machine (SVM). The ensemble approach combines the strengths of these classifiers to improve prediction accuracy.
 
-img src=<"https://www.eresvihda.es/vivir-con-vih/el-vih-y-tu-cuerpo/diabetes-y-vih/.gif" height=15% width=40% align="right">
+ <img src="https://www.eresvihda.es/wp-content/uploads/2023/10/Diabetes.gif" height=15% width=40% align="right">
+
