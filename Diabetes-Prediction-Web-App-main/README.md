@@ -36,7 +36,7 @@ This repository contains the code for a web-based diabetes prediction applicatio
 -#### Mr. Mohamed riyaz have successfully completed a groundbreaking project over the course of 2 months, focusing on diabetes prediction web app . This collaborative effort showcases their expertise in  machine learning, and software development.
 -The web app utilizes a machine learning model, specifically an ensemble model combining RandomForestClassifier, LogisticRegression, and Support Vector Machine (SVM), to provide predictions. The model was trained on the diabetes dataset from kaggle.
 
-
+## ![image](file:///C:/Users/CSLAB/Downloads/diabetes.webp)
 ## Features
 
 - Users can input their health parameters such as Glucose level, Blood Pressure, Skin Thickness, Insulin level, BMI, Diabetes Pedigree Function (DPF), and Age.
@@ -48,6 +48,24 @@ This repository contains the code for a web-based diabetes prediction applicatio
 ## Model
 
 The machine learning model used in this app is an ensemble of RandomForestClassifier, LogisticRegression, and Support Vector Machine (SVM). The ensemble approach combines the strengths of these classifiers to improve prediction accurac
+
+
+
+##acknowledgement:
+
+Research Team and Support: Acknowledge the contributions of your research team, collaborators, and any institutions or organizations that provided resources and support.
+
+Funding and Data Providers: Express gratitude for the funding received and thank those who provided essential data or access to critical information used in the prediction models.
+
+
+###Future enhancement:
+
+Advanced Machine Learning and AI: New algorithms and AI tools will integrate data from various sources, such as wearable devices and genetic information, to provide more accurate and personalized predictions of diabetes risk.
+
+Enhanced Wearable and Health Monitoring Tech: Future advancements in wearable technology and continuous health monitoring will enable real-time tracking and prediction of diabetes risk based on continuous data from devices like smartwatches and glucose monitors.
+
+
+
 
 
 
