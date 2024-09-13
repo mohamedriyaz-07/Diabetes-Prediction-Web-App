@@ -51,6 +51,8 @@ The machine learning model used in this app is an ensemble of RandomForestClassi
 
 
 <img src="https://www.eresvihda.es/wp-content/uploads/2023/10/Diabetes.gif" height=25% width=45% align="middle">
-<img src="https://ar.inspiredpencil.com/pictures-2023/diabetes-animated.gif" height=25% width=45% align="right">
+
+
+
 
 
